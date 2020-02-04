@@ -1,0 +1,33 @@
+[200~1. What is software testing ?
+software testing defines that testing the software like is it having any bugs or not it is working good or not like with out any defects.for the last we need to check like it reached the user specifications and standards  or not and checking whole software before the deployment.and also defines that is  an activity to check whether the actual results match the expected results
+
+2. Types of testing method
+unit testing:
+software will test at the initial stage of development.weather the code is working properly and the individual modules are working fine or not.
+integration testing:
+integration testing defines that the it will test over the components.when ever we r combining the components how they r working or is there any effect over the other components
+system testing:
+this is the type of black-box testing. in this will check from end to end working weather it is giving the correct outputs for the given input or not.it will not concentrate on code  but concentrate on function of software.
+acceptance testing:
+after the deployment done when ever the software given to the stakeholder or client then there is a testing like alpha beta and Gama testing for acceptance.
+
+ 3.Difference between verification and validation.
+verification:
+it is also called as static testing and we mainly focus on weather we r building a product right or not.in this we need to verify each and every thing in that.for each and every verification there is inspections and review and more
+validation:
+this is also called dynamic testing in this  we are going to validate it  for knowing weather we are building a right product or not.just for the testing of software application
+this includes white-box.black-box,unit testing and integration testing.
+
+ 4.What is functional testing and give me types of functional testing
+functional testing: functional testing will mainly focus on the function of each and every software component and mainly focus on function.
+types:
+unit testing 
+integration testing 
+smoke testing
+
+ 5.What is non- functional testing and give me types of non-functional testing.
+non-functional testing:non functional testing refer mainly on the characteristic of software like how the performance and how the security ,robustness,efficiency and platform dependent or platform independent.it will speak about all the features.
+types:
+performance 
+load 
+volume....etc
